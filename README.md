@@ -1,6 +1,8 @@
 # cpp-lab-4
 # Лабораторная работа №4 (Automata)
 
+[![GitHub pull-requests](https://img.shields.io/github/issues-pr/Naereen/StrapDown.js.svg)](https://GitHub.com/Naereen/StrapDown.js/pull/)
+
 ## Задача №1
 
 > Разработать класс `Automata` (автомат), являющийся упрощённой моделью автомата по продаже горячих напитков.
