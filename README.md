@@ -4,6 +4,8 @@
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/HSE-CS/tp-lab-4)
 ![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/HSE-CS/tp-lab-4)
 
+![Relative date](https://img.shields.io/date/1607299199)
+
 ## Задача №1
 
 > Разработать класс `Automata` (автомат), являющийся упрощённой моделью автомата по продаже горячих напитков.
