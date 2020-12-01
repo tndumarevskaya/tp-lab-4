@@ -1,7 +1,7 @@
 # cpp-lab-4
 # Лабораторная работа №4 (Automata)
 
-[![GitHub pull-requests](https://img.shields.io/github/issues-pr/Naereen/StrapDown.js.svg)](https://GitHub.com/Naereen/StrapDown.js/pull/)
+[![GitHub pull-requests](https://img.shields.io/github/issues-pr/HSE-CS/StrapDown.js.svg)](https://GitHub.com/HSE-CS/StrapDown.js/pull/)
 
 ## Задача №1
 
