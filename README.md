@@ -2,6 +2,7 @@
 # Лабораторная работа №4 (Automata)
 
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/HSE-CS/tp-lab-4)
+![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/HSE-CS/tp-lab-4)
 
 ## Задача №1
 
