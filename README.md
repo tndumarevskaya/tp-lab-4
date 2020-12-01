@@ -1,7 +1,6 @@
 # cpp-lab-4
 # Лабораторная работа №4 (Automata)
 
-[![GitHub pull-requests](https://img.shields.io/github/issues-pr/tp-lab-4/StrapDown.js.svg)](https://GitHub.com/tp-lab-4/StrapDown.js/pull/)
 
 ## Задача №1
 
